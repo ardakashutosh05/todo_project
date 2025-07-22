@@ -1,14 +1,13 @@
-# 📝 To-Do List Console App (Python)
+# ✅ To-Do List App (Tkinter GUI)
 
-A simple Python console app to manage your tasks using a file-based system.
+A simple but clean To-Do list manager with a Python + Tkinter GUI.
 
-## ✅ Features
-
+## 🧩 Features
 - Add new task
-- View task list
-- Mark task as complete
+- View tasks
+- Mark as done
 - Delete tasks
-- Save tasks in a file
+- Tasks saved in `todo.txt`
 
 ## 🚀 How to Run
 
